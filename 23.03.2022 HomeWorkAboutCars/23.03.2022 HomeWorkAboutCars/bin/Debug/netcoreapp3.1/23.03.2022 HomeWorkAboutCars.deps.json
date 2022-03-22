@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "23.03.2022 HomeWorkAboutCars/1.0.0": {
+        "runtime": {
+          "23.03.2022 HomeWorkAboutCars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23.03.2022 HomeWorkAboutCars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
