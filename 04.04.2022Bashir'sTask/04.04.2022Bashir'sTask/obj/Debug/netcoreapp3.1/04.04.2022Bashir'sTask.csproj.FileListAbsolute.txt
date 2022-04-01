@@ -1,0 +1,14 @@
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\bin\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.exe
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\bin\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.deps.json
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\bin\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.runtimeconfig.json
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\bin\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.runtimeconfig.dev.json
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\bin\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.dll
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\bin\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.pdb
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\obj\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.csproj.AssemblyReference.cache
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\obj\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\obj\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.AssemblyInfoInputs.cache
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\obj\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.AssemblyInfo.cs
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\obj\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.csproj.CoreCompileInputs.cache
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\obj\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.dll
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\obj\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.pdb
+C:\Users\Ilham\source\repos\04.04.2022Bashir'sTask\04.04.2022Bashir'sTask\obj\Debug\netcoreapp3.1\04.04.2022Bashir'sTask.genruntimeconfig.cache
