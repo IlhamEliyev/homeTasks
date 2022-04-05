@@ -1,0 +1,14 @@
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\bin\Debug\netcoreapp3.1\05.04.2022CurrencyTask.exe
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\bin\Debug\netcoreapp3.1\05.04.2022CurrencyTask.deps.json
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\bin\Debug\netcoreapp3.1\05.04.2022CurrencyTask.runtimeconfig.json
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\bin\Debug\netcoreapp3.1\05.04.2022CurrencyTask.runtimeconfig.dev.json
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\bin\Debug\netcoreapp3.1\05.04.2022CurrencyTask.dll
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\bin\Debug\netcoreapp3.1\05.04.2022CurrencyTask.pdb
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\obj\Debug\netcoreapp3.1\05.04.2022CurrencyTask.csproj.AssemblyReference.cache
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\obj\Debug\netcoreapp3.1\05.04.2022CurrencyTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\obj\Debug\netcoreapp3.1\05.04.2022CurrencyTask.AssemblyInfoInputs.cache
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\obj\Debug\netcoreapp3.1\05.04.2022CurrencyTask.AssemblyInfo.cs
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\obj\Debug\netcoreapp3.1\05.04.2022CurrencyTask.csproj.CoreCompileInputs.cache
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\obj\Debug\netcoreapp3.1\05.04.2022CurrencyTask.dll
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\obj\Debug\netcoreapp3.1\05.04.2022CurrencyTask.pdb
+C:\Users\Ilham\source\repos\05.04.2022CurrencyTask\05.04.2022CurrencyTask\obj\Debug\netcoreapp3.1\05.04.2022CurrencyTask.genruntimeconfig.cache
